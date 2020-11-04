@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/pedrohrpbs/catkin_ws_HEAR/devel/include/**",
+        "/home/pedrohrpbs/catkin_ws_NAVIO/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/pedrohrpbs/catkin_ws_tensorflow/src/dnn_system_identification/include/**",
+        "/home/pedrohrpbs/catkin_ws_NAVIO/src/flight_controller_temp/include/**",
+        "/home/pedrohrpbs/catkin_ws_NAVIO/src/flight_scenario/include/**",
+        "/home/pedrohrpbs/catkin_ws_HEAR/src/HEAR_Architecture/include/**",
+        "/home/pedrohrpbs/catkin_ws_HEAR/src/HEAR_ROS_interface/include/**",
+        "/home/pedrohrpbs/catkin_ws_NAVIO/src/mocap_optitrack/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
