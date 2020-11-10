@@ -1,4 +1,4 @@
-int8 id
+int32 id
 float32 pid_kp
 float32 pid_ki
 float32 pid_kd
