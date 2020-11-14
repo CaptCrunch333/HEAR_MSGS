@@ -31,6 +31,7 @@ add_service_files(
    Restricted_Norm_Settings.srv
    set_bool.srv
    set_float.srv
+   set_floats.srv
    set_int.srv
    set_int8.srv
    set_point.srv
