@@ -54,10 +54,9 @@ generate_messages(
 
 catkin_package(
   INCLUDE_DIRS
+  # LIBRARIES ${PROJECT_NAME}
   CATKIN_DEPENDS
     roscpp
     std_msgs
     geometry_msgs
-  DEPENDS
-    system_lib
 )
